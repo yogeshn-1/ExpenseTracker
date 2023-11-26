@@ -1,0 +1,10 @@
+body {
+  background: url(../src/assets/towfiqu-barbhuiya-xkArbdUcUeE-unsplash.jpg)
+    no-repeat center center / cover;
+  height: 100vh;
+}
+
+.container {
+  background: rgba(150, 150, 150, 0.5);
+  border-radius: 10px;
+}
